@@ -1,5 +1,1 @@
-# A-Maze-Solver
-
-Comparison of forward, backward, and adaptive A* algorithms in a maze.
-
-A full report can be found in the report.pdf file. 
+#[Intro to AI Report.pdf](https://github.com/anthony-derose/AStarImplementations/files/9206013/Intro.to.AI.Report.pdf)
