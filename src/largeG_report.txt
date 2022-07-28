@@ -1,0 +1,300 @@
+Maze file: 63.txt
+A* executions: 172
+Expanded Cells: 9425
+Path length: 513
+
+
+Maze file: 89.txt
+A* executions: 291
+Expanded Cells: 17906
+Path length: 559
+
+
+Maze file: 50.txt
+A* executions: 428
+Expanded Cells: 25679
+Path length: 814
+
+
+Maze file: 90.txt
+A* executions: 243
+Expanded Cells: 55279
+Path length: 566
+
+
+Maze file: 51.txt
+A* executions: 830
+Expanded Cells: 106500
+Path length: 2933
+
+
+Maze file: 52.txt
+A* executions: 128
+Expanded Cells: 4824
+Path length: 310
+
+
+Maze file: 53.txt
+A* executions: 531
+Expanded Cells: 58674
+Path length: 1239
+
+
+Maze file: 54.txt
+A* executions: 197
+Expanded Cells: 13766
+Path length: 443
+
+
+Maze file: 91.txt
+A* executions: 726
+Expanded Cells: 194100
+Path length: 2143
+
+
+Maze file: 92.txt
+A* executions: 23
+Expanded Cells: 492
+Path length: 61
+
+
+Maze file: 93.txt
+A* executions: 79
+Expanded Cells: 2028
+Path length: 140
+
+
+Maze file: 94.txt
+A* executions: 75
+Expanded Cells: 2194
+Path length: 263
+
+
+Maze file: 55.txt
+A* executions: 1084
+Expanded Cells: 297513
+Path length: 3833
+
+
+Maze file: 56.txt
+A* executions: 318
+Expanded Cells: 31546
+Path length: 776
+
+
+Maze file: 95.txt
+A* executions: 1006
+Expanded Cells: 254917
+Path length: 3187
+
+
+Maze file: 96.txt
+A* executions: 1022
+Expanded Cells: 267582
+Path length: 2573
+
+
+Maze file: 97.txt
+A* executions: 152
+Expanded Cells: 5403
+Path length: 256
+
+
+Maze file: 57.txt
+A* executions: 944
+Expanded Cells: 553450
+Path length: 3231
+
+
+Maze file: 58.txt
+A* executions: 78
+Expanded Cells: 3424
+Path length: 157
+
+
+Maze file: 59.txt
+A* executions: 411
+Expanded Cells: 58767
+Path length: 1266
+
+
+Maze file: 64.txt
+A* executions: 1355
+Expanded Cells: 753107
+Path length: 3167
+
+
+Maze file: 65.txt
+A* executions: 329
+Expanded Cells: 14636
+Path length: 605
+
+
+Maze file: 66.txt
+A* executions: 4
+Expanded Cells: 20
+Path length: 9
+
+
+Maze file: 60.txt
+A* executions: 656
+Expanded Cells: 66378
+Path length: 2766
+
+
+Maze file: 67.txt
+A* executions: 435
+Expanded Cells: 33408
+Path length: 1376
+
+
+Maze file: 68.txt
+A* executions: 1132
+Expanded Cells: 115948
+Path length: 2759
+
+
+Maze file: 69.txt
+A* executions: 803
+Expanded Cells: 128413
+Path length: 2723
+
+
+Maze file: 70.txt
+A* executions: 137
+Expanded Cells: 13128
+Path length: 516
+
+
+Maze file: 71.txt
+A* executions: 210
+Expanded Cells: 23327
+Path length: 599
+
+
+Maze file: 72.txt
+A* executions: 204
+Expanded Cells: 11658
+Path length: 410
+
+
+Maze file: 73.txt
+A* executions: 215
+Expanded Cells: 17149
+Path length: 687
+
+
+Maze file: 98.txt
+A* executions: 1631
+Expanded Cells: 672722
+Path length: 4505
+
+
+Maze file: 74.txt
+A* executions: 1138
+Expanded Cells: 223103
+Path length: 3860
+
+
+Maze file: 61.txt
+A* executions: 1257
+Expanded Cells: 474500
+Path length: 3700
+
+
+Maze file: 62.txt
+A* executions: 505
+Expanded Cells: 60116
+Path length: 1285
+
+
+Maze file: 99.txt
+A* executions: 1668
+Expanded Cells: 668806
+Path length: 5326
+
+
+Maze file: 75.txt
+A* executions: 1491
+Expanded Cells: 844471
+Path length: 4899
+
+
+Maze file: 76.txt
+A* executions: 1219
+Expanded Cells: 2069797
+Path length: 4164
+
+
+Maze file: 77.txt
+A* executions: 1219
+Expanded Cells: 633457
+Path length: 4212
+
+
+Maze file: 78.txt
+A* executions: 47
+Expanded Cells: 856
+Path length: 111
+
+
+Maze file: 79.txt
+A* executions: 1539
+Expanded Cells: 775207
+Path length: 5259
+
+
+Maze file: 80.txt
+A* executions: 250
+Expanded Cells: 20203
+Path length: 831
+
+
+Maze file: 81.txt
+A* executions: 758
+Expanded Cells: 68336
+Path length: 1643
+
+
+Maze file: 82.txt
+A* executions: 1721
+Expanded Cells: 1527450
+Path length: 5713
+
+
+Maze file: 83.txt
+A* executions: 870
+Expanded Cells: 77530
+Path length: 1755
+
+
+Maze file: 84.txt
+A* executions: 1242
+Expanded Cells: 541391
+Path length: 4401
+
+
+Maze file: 85.txt
+A* executions: 398
+Expanded Cells: 38596
+Path length: 938
+
+
+Maze file: 86.txt
+A* executions: 592
+Expanded Cells: 50758
+Path length: 1713
+
+
+Maze file: 87.txt
+A* executions: 1643
+Expanded Cells: 4018979
+Path length: 6292
+
+
+Maze file: 88.txt
+A* executions: 1055
+Expanded Cells: 1290965
+Path length: 3814
+
+
